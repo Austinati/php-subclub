@@ -1,0 +1,16 @@
+{
+  "name": "theblvd/subclub",
+  "description": "A PHP library for interacting with the sub.club API.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Subclub\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.6"
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^7.9"
+  }
+}
