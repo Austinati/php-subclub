@@ -2,6 +2,7 @@
   "name": "theblvd/subclub",
   "description": "A PHP library for interacting with the sub.club API.",
   "type": "library",
+  "version": "1.0.0",
   "autoload": {
     "psr-4": {
       "Subclub\\": "src/"
